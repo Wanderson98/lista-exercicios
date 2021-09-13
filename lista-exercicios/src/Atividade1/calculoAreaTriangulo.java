@@ -1,12 +1,13 @@
+package Atividade1;
 import java.util.Scanner;
 public class calculoAreaTriangulo {
 
     public static void main(String[] args) throws Exception {
         Scanner ler = new Scanner(System.in);
         //criação de novos objetos para usar os atributos da entidade triangulo
-        entidadeTrinagulo x, y;
-        x = new entidadeTrinagulo();
-        y = new entidadeTrinagulo();
+        entidadeTriangulo x, y;
+        x = new entidadeTriangulo();
+        y = new entidadeTriangulo();
         //leitura dos dados
         System.out.println("Digite as areas do Triangulo1");
         System.out.print("Medida 1: ");

@@ -1,4 +1,6 @@
-public class entidadeTrinagulo {
+package Atividade1;
+
+public class entidadeTriangulo {
     //dados da entidade triangulo
     public double medida1;
     public double medida2;
